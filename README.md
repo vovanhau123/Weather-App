@@ -7,4 +7,4 @@
 - [Node.js 14+](https://nodejs.org/en/download/)
 ## ✨Create New Account
 
-- [Open Weather](https://nodejs.org/en/download/](https://home.openweathermap.org/users/sign_in)https://home.openweathermap.org/users/sign_in)
+- [Open Weather](https://home.openweathermap.org/users/sign_in)
