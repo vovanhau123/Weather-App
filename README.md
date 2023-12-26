@@ -10,3 +10,6 @@
 Please create a new account and get the API in your account and pass it to API_KEY.
 ## 📝 Tutorial
 `npm install`
+`npm start`
+
+And now, just enjoy it. 😁
