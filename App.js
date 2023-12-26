@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { View, Text, StyleSheet } from 'react-native';
 
-const API_KEY = 'ce485d972620f2377ef140bd9af2fccf';
+const API_KEY = 'API_KEY';
 const API_URL = `https://api.openweathermap.org/data/2.5/weather?q=Ho%20Chi%20Minh%20City,vn&appid=${API_KEY}&units=metric`;
 
 const App = () => {
