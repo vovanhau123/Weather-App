@@ -8,3 +8,5 @@
 ## ✨Create New Account
 - [Open Weather](https://home.openweathermap.org/users/sign_in)
 Please create a new account and get the API in your account and pass it to API_KEY.
+## 📝 Tutorial
+`npm install`
